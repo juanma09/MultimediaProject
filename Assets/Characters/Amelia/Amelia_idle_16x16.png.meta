@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9e5f6ca9ffbb0d54285f3d58b1b6e575
+guid: cea75a0a183c8b04da88cdf85202bda1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,11 +106,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Adam_idle_16x16_0
+      name: Amelia_idle_16x16_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af8fee4479845af4dbdc228856f23c04
-      internalID: 1730003273
+      spriteID: cdf7dfb268bd4774fb8f9193dce37d5b
+      internalID: -325303244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_idle_16x16_1
+      name: Amelia_idle_16x16_1
       rect:
         serializedVersion: 2
         x: 16
@@ -145,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fde1f499d12bf254a9e088eb36fdea12
-      internalID: 1613898911
+      spriteID: f7ecd01c8bf2933409856f93efb87816
+      internalID: -458548947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_idle_16x16_2
+      name: Amelia_idle_16x16_2
       rect:
         serializedVersion: 2
         x: 32
@@ -166,14 +179,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5aff40cf4585114184566442be02855
-      internalID: -417375121
+      spriteID: 9ea02b47ab26eb14da4fe82b2ccae72a
+      internalID: -1016717196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_idle_16x16_3
+      name: Amelia_idle_16x16_3
       rect:
         serializedVersion: 2
         x: 48
@@ -187,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f7c148d0d79db345b5814c4a926c9ea
-      internalID: 149390520
+      spriteID: dc998d8f20c5c3c4095bbe32508bd5ad
+      internalID: -1445863818
       vertices: []
       indices: 
       edges: []
@@ -204,10 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Adam_idle_16x16_0: 1730003273
-      Adam_idle_16x16_1: 1613898911
-      Adam_idle_16x16_2: -417375121
-      Adam_idle_16x16_3: 149390520
+      Amelia_idle_16x16_0: -325303244
+      Amelia_idle_16x16_1: -458548947
+      Amelia_idle_16x16_2: -1016717196
+      Amelia_idle_16x16_3: -1445863818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

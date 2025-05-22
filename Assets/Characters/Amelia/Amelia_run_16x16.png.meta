@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 020bff6bf39520f45866bf22b5d63637
+guid: 480f9be29bc05c14eadccc6753acb305
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,11 +106,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Adam_run_16x16_0
+      name: Amelia_run_16x16_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d08d6c118c275ec46b4825c729d5e897
-      internalID: -772979059
+      spriteID: 1e9800327cf2d0540af82379a0d1c429
+      internalID: -122073968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_1
+      name: Amelia_run_16x16_1
       rect:
         serializedVersion: 2
         x: 16
@@ -145,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d1df507680bcf74da216ad77fdfc7d4
-      internalID: -7974614
+      spriteID: d9e8fb17b460d0845b4d0e7de4e458ae
+      internalID: -1440826371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_2
+      name: Amelia_run_16x16_2
       rect:
         serializedVersion: 2
         x: 32
@@ -166,14 +179,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57c7e8705c3214f4c88cd115f81b519c
-      internalID: 2024306695
+      spriteID: b8d8850e8c4783349af7748a9b5e8157
+      internalID: 1081850035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_3
+      name: Amelia_run_16x16_3
       rect:
         serializedVersion: 2
         x: 48
@@ -187,14 +200,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 857ae3e42c5ef134f8a2800370c888bf
-      internalID: 937758814
+      spriteID: 5a4542df0a36ddd4a9ddf03e1cea8b1b
+      internalID: -127359702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_4
+      name: Amelia_run_16x16_4
       rect:
         serializedVersion: 2
         x: 64
@@ -208,14 +221,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67607629b5a07c648921023d7d5aae60
-      internalID: -331803790
+      spriteID: 409d4f5d79b64c845b6426d31343c4d2
+      internalID: 1576220411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_5
+      name: Amelia_run_16x16_5
       rect:
         serializedVersion: 2
         x: 80
@@ -229,14 +242,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97a4fa04f6f45374282db0ddff722cf5
-      internalID: 2099487039
+      spriteID: 4800071d38c2d9840aada7e4f29a9d83
+      internalID: -844487104
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_6
+      name: Amelia_run_16x16_6
       rect:
         serializedVersion: 2
         x: 96
@@ -250,14 +263,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08d30f0f1024c8949a481b9d8cd46408
-      internalID: 1632285340
+      spriteID: 344dc9144dcb385468037df43cf24587
+      internalID: 2058521886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_7
+      name: Amelia_run_16x16_7
       rect:
         serializedVersion: 2
         x: 112
@@ -271,14 +284,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60220c75945867743b38814895b0ec1d
-      internalID: 1048480529
+      spriteID: 5a776214a5cbe9e41bd659cec5594171
+      internalID: -800843862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_8
+      name: Amelia_run_16x16_8
       rect:
         serializedVersion: 2
         x: 128
@@ -292,14 +305,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c87257aaae4a69e48b7ec061a9802b35
-      internalID: 670236052
+      spriteID: 42330da4a4d253d4e88866f626f3cec6
+      internalID: 1075906954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_9
+      name: Amelia_run_16x16_9
       rect:
         serializedVersion: 2
         x: 144
@@ -313,14 +326,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c1aa116f353e3d4e92a03fefb406a7c
-      internalID: 1809596962
+      spriteID: fc93f97458603a24d9deedc870ed4d63
+      internalID: -1825553232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_10
+      name: Amelia_run_16x16_10
       rect:
         serializedVersion: 2
         x: 160
@@ -334,14 +347,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3687f2c4fcd0fe54e8fe8095332be173
-      internalID: -1134654243
+      spriteID: dd14be222f6c931409c4f70c27bbe313
+      internalID: 634348961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_11
+      name: Amelia_run_16x16_11
       rect:
         serializedVersion: 2
         x: 176
@@ -355,14 +368,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b666ff350f562445aca9dafbb93622a
-      internalID: -770735432
+      spriteID: b0b51086cc799d647962b8e5aee3f897
+      internalID: 368544218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_12
+      name: Amelia_run_16x16_12
       rect:
         serializedVersion: 2
         x: 192
@@ -376,14 +389,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82f6e550c5bfa0945871e21a4b35c97d
-      internalID: 744636921
+      spriteID: 8d8f606bfb56c494085fa4e6c9b91fa8
+      internalID: 1360808899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_13
+      name: Amelia_run_16x16_13
       rect:
         serializedVersion: 2
         x: 208
@@ -397,14 +410,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94f7edebef9a7d0458026f5f6bb9c7e9
-      internalID: -1593671052
+      spriteID: d702bc4ecb5071045abd78a67f56e2d9
+      internalID: -1092251453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_14
+      name: Amelia_run_16x16_14
       rect:
         serializedVersion: 2
         x: 224
@@ -418,14 +431,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c95c5bf46cc6c7f4f86e817fe27234fb
-      internalID: -570810777
+      spriteID: 9b815a3f1b355d74888c23aeae848665
+      internalID: -332364874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_15
+      name: Amelia_run_16x16_15
       rect:
         serializedVersion: 2
         x: 240
@@ -439,14 +452,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88975e90e1ca63c40b5b70960dec6f93
-      internalID: 1587059366
+      spriteID: dbe830a6fa8f3444199ddbaeed05791f
+      internalID: 640661437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_16
+      name: Amelia_run_16x16_16
       rect:
         serializedVersion: 2
         x: 256
@@ -460,14 +473,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccd37eec714fe5c4db32f8d5a426e71a
-      internalID: 523072256
+      spriteID: 752d8fa0b73ca8c45a8de4fab6ec735c
+      internalID: 1270144922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_17
+      name: Amelia_run_16x16_17
       rect:
         serializedVersion: 2
         x: 272
@@ -481,14 +494,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f9590944dd2ed443a0f65c23178d470
-      internalID: -1658293815
+      spriteID: 6de7233c5e35a834cb568a61e63c8fc9
+      internalID: -180560631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_18
+      name: Amelia_run_16x16_18
       rect:
         serializedVersion: 2
         x: 288
@@ -502,14 +515,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26a6db52a2935cd40a7c0cf7657bed2b
-      internalID: 260471846
+      spriteID: c737cfc65942c6d458c63e2ef47fc534
+      internalID: -1212549041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_19
+      name: Amelia_run_16x16_19
       rect:
         serializedVersion: 2
         x: 304
@@ -523,14 +536,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c5b4c3f82c84ad4db9c126992a97f31
-      internalID: -373530097
+      spriteID: 4380561d2f14ca74b8ea5321284e04a9
+      internalID: 45718227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_20
+      name: Amelia_run_16x16_20
       rect:
         serializedVersion: 2
         x: 320
@@ -544,14 +557,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f7ce5d334d777e4f906f387d1e8ee2d
-      internalID: 2001435529
+      spriteID: a7ce8b8daffdd194f989e2798d906f91
+      internalID: -1818104301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_21
+      name: Amelia_run_16x16_21
       rect:
         serializedVersion: 2
         x: 336
@@ -565,14 +578,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e6fd6b63f29c0d469dc75b850e8cc4d
-      internalID: 49445333
+      spriteID: d89373126f3633045b7add366cd2ef0d
+      internalID: 1263939944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_22
+      name: Amelia_run_16x16_22
       rect:
         serializedVersion: 2
         x: 352
@@ -586,14 +599,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2f3c4ec16349424195200cb2efc58f5
-      internalID: 160684839
+      spriteID: 8442265d89301ce4cb9337633ab62e35
+      internalID: -1616267009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Adam_run_16x16_23
+      name: Amelia_run_16x16_23
       rect:
         serializedVersion: 2
         x: 368
@@ -607,8 +620,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 226f5b61343f6ac46904056c116a6e5c
-      internalID: -1367802234
+      spriteID: b86c1a4d4291da348b6e8439d46e3158
+      internalID: -222566554
       vertices: []
       indices: 
       edges: []
@@ -624,30 +637,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Adam_run_16x16_0: -772979059
-      Adam_run_16x16_1: -7974614
-      Adam_run_16x16_10: -1134654243
-      Adam_run_16x16_11: -770735432
-      Adam_run_16x16_12: 744636921
-      Adam_run_16x16_13: -1593671052
-      Adam_run_16x16_14: -570810777
-      Adam_run_16x16_15: 1587059366
-      Adam_run_16x16_16: 523072256
-      Adam_run_16x16_17: -1658293815
-      Adam_run_16x16_18: 260471846
-      Adam_run_16x16_19: -373530097
-      Adam_run_16x16_2: 2024306695
-      Adam_run_16x16_20: 2001435529
-      Adam_run_16x16_21: 49445333
-      Adam_run_16x16_22: 160684839
-      Adam_run_16x16_23: -1367802234
-      Adam_run_16x16_3: 937758814
-      Adam_run_16x16_4: -331803790
-      Adam_run_16x16_5: 2099487039
-      Adam_run_16x16_6: 1632285340
-      Adam_run_16x16_7: 1048480529
-      Adam_run_16x16_8: 670236052
-      Adam_run_16x16_9: 1809596962
+      Amelia_run_16x16_0: -122073968
+      Amelia_run_16x16_1: -1440826371
+      Amelia_run_16x16_10: 634348961
+      Amelia_run_16x16_11: 368544218
+      Amelia_run_16x16_12: 1360808899
+      Amelia_run_16x16_13: -1092251453
+      Amelia_run_16x16_14: -332364874
+      Amelia_run_16x16_15: 640661437
+      Amelia_run_16x16_16: 1270144922
+      Amelia_run_16x16_17: -180560631
+      Amelia_run_16x16_18: -1212549041
+      Amelia_run_16x16_19: 45718227
+      Amelia_run_16x16_2: 1081850035
+      Amelia_run_16x16_20: -1818104301
+      Amelia_run_16x16_21: 1263939944
+      Amelia_run_16x16_22: -1616267009
+      Amelia_run_16x16_23: -222566554
+      Amelia_run_16x16_3: -127359702
+      Amelia_run_16x16_4: 1576220411
+      Amelia_run_16x16_5: -844487104
+      Amelia_run_16x16_6: 2058521886
+      Amelia_run_16x16_7: -800843862
+      Amelia_run_16x16_8: 1075906954
+      Amelia_run_16x16_9: -1825553232
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
