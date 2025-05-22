@@ -7,5 +7,21 @@ AnimatorOverrideController:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Amelia
-  m_Controller: {fileID: 0}
-  m_Clips: []
+  m_Controller: {fileID: 9100000, guid: a7edf42db32e6034a92803ade90f2369, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f4061619d4f179b4e9c40957ca192850, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b620da11fb9c39749ac9e2eef6432684, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c9f2515c2d2589043a216a9175f7d1b7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d2c5f30d73548eb4ba49051479e0e9a5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 201d94d3aef6f004986a354b73360bea, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c18f729aaf4b3b64ca8c3d496d425aaf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 063f7f1877ccd3a4ab49272e40efcabe, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b53a7fcb1f813cb43ac87aac8ac3b6e1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 169003a7b9f8b0547ae280d795fde483, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3122f5c033609c44da7f9b8ab9d4415e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9b66d3da2f5f3a94b9420ff040869de8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f50b1b3e01a0c5341846ef8d5a39178d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b1e9cb5cb297d084386bdf8559fd77ae, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d4f0b1bfe3daea54881aed078ab51d51, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f3e5218f04430634d8c1b6cd948f7bf2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 915948caef416df4191b6e6756ad93bd, type: 2}
