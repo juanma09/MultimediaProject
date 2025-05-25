@@ -5,12 +5,14 @@ using UnityEngine;
 public class DoorScript : MonoBehaviour
 {
     bool playerDetected = false;
+    private Animator animator;
     [SerializeField] Transform posToGo;
     GameObject playerGO;
     // Start is called before the first frame update
     void Start()
     {
         playerDetected = false;
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -31,6 +33,7 @@ public class DoorScript : MonoBehaviour
         {
             playerDetected = true;
             playerGO = collision.gameObject;
+            animator.SetTrigger("hasTouched");
         }
     }
     private void OnTriggerExit2D(Collider2D collision)
