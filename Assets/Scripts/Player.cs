@@ -6,6 +6,8 @@ public enum CharacterName
 {
     Adam = 1,
     Amelia,
+    Alex,
+    Bob
 }
 public class Player : MonoBehaviour
 {
